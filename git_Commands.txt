@@ -1,2 +1,11 @@
 git add .
 
+git commit -m" "
+
+git status
+
+ssh-keygen -t rsa -b 
+
+git push -u origin main
+
+git remote add origin Link_SSH__
