@@ -9,3 +9,11 @@ ssh-keygen -t rsa -b
 git push -u origin main
 
 git remote add origin Link_SSH__
+
+git pull -> trage schimbarile din github
+
+git checkout -b Branch_name -> creeaza un branch nou
+
+git checkout branch_name -> te schimba de pe un branch pe altu
+
+https://learngitbranching.js.org/
